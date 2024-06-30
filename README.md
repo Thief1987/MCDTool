@@ -1,0 +1,1 @@
+Unpacking .mcd text files of Platinum Games' games (Vanquish, Bayonetta, etc.)
